@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: https://gizchina.it/wp-content/uploads/2021/01/Redmi-7-miui-12.jpg?_ga=2.48986927.821538343.1630523714-1097268045.1630523714
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/android_logo.png
 categories:
   - ROMS
   - TWRP
